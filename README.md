@@ -42,3 +42,6 @@ The data was scraped from Flipkart using a custom script. The dataset includes i
 ## Conclusion
 
 This Power BI dashboard provides a comprehensive comparison of OnePlus and Samsung mobile phones, offering valuable insights into their features, prices, and customer ratings. Feel free to explore the data and use the dashboard for your analysis.
+
+Thank you for visiting the Power BI Mobile Phone Dashboard repository!
+
